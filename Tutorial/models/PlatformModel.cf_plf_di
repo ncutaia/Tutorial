@@ -1,0 +1,282 @@
+<notation:Diagram xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_uuoUMo-z-jw_d7nQqO3O1l" visible="true" type="CofluentPlatform" name="PlatformModel" measurementUnit="Pixel" xmi:version="2.0">
+  <styles xsi:type="notation:DiagramStyle" xmi:id="_xNK7EMmqz4m3svsWJxHdnQ" pageX="0" pageY="0" pageWidth="100" pageHeight="100" description=""/>
+  <element href="PlatformModel.cf_plf#_-PZ2RRhUEeaRJZtBX_vAyA"/>
+  <children xmi:id="_9AvraWmJ_C_E-tLYCHdfcq" visible="true" type="1003">
+    <children xmi:id="_gJBK0zqkqK26rme1JFOsK1" visible="true" type="1503">
+      <styles xsi:type="notation:ShapeStyle" xmi:id="_ZQGhnfSWqb1XE0bWG7Dhp9" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+      <layoutConstraint xsi:type="notation:Location" xmi:id="_N1sMY93NY4nJykDqxZS4Wy" x="8" y="40"/>
+    </children>
+    <styles xsi:type="notation:FontStyle" xmi:id="_05s-_5VJonaGnQsbCYFjgr" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false"/>
+    <styles xsi:type="notation:LineStyle" xmi:id="_qvQpzZjJBKFyFbEBwARRbU" lineColor="0" lineWidth="-1"/>
+    <styles xsi:type="notation:DescriptionStyle" xmi:id="_DafxOilJ25DnoVRriwrB0E" description=""/>
+    <styles xsi:type="notation:IntValueStyle" xmi:id="_WnTBE60Vo5fZTRoREu8yrV" name="Rotated_Style"/>
+    <element href="PlatformModel.cf_plf#_afD2cCG3EeaaOsqBPt_qWw"/>
+    <layoutConstraint xsi:type="notation:Bounds" xmi:id="_u9vC8dWByzrhoSmq6iho7i" x="102" y="434" width="756" height="81"/>
+  </children>
+  <children xmi:id="_wkMefOsrc0pr4QZVveY46l" visible="true" type="1101">
+    <children xmi:id="_W4CJsNgNsv-PIEeL8pcIwG" visible="true" type="4265"/>
+    <children xmi:id="_EgT8Jy8TVM0NPdOJAgDjdG" visible="true" type="3124">
+      <styles xsi:type="notation:ShapeStyle" xmi:id="_maAP47TI0DywgiNTDetf6u" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+      <element href="PlatformModel.cf_plf#_liMMsCG3EeaaOsqBPt_qWw"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_pFBQvMouvT-tkVx8pqrhdW" x="67" y="299" width="-1" height="-1"/>
+    </children>
+    <children xmi:id="_JKHcdoJwtpCi7IzgoUkyEz" visible="true" type="3124">
+      <styles xsi:type="notation:ShapeStyle" xmi:id="_vYh7QNOtdc7R91HeYVVBPR" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+      <element href="PlatformModel.cf_plf#_l1j0oCG3EeaaOsqBPt_qWw"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_maQbGcbRSupTrSwT33Z3XO" x="177" y="299" width="-1" height="-1"/>
+    </children>
+    <children xmi:id="_nNfJ-8m-9JWVGDEppSzhNO" visible="true" type="3124">
+      <styles xsi:type="notation:ShapeStyle" xmi:id="_a0If-v2OmlwzuhXNMNOQCa" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+      <element href="PlatformModel.cf_plf#_mcmmgCG3EeaaOsqBPt_qWw"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PHzcmXe8vFpJMfmmb0uU1m" x="391" y="299" width="-1" height="-1"/>
+    </children>
+    <children xmi:id="_FHIVQ-94kvBy7_IM5wU_7G" visible="true" type="3124">
+      <styles xsi:type="notation:ShapeStyle" xmi:id="_kvEOGseNzBooOZTkQM2vMI" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+      <element href="PlatformModel.cf_plf#_iZwigCG_EeaaOsqBPt_qWw"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_uJPlmUuQtj60zaT7GQSF0O" x="286" y="299" width="-1" height="-1"/>
+    </children>
+    <children xmi:id="_IMrYvRkY3ovI9w4lNkyVzA" visible="true" type="2133">
+      <children xmi:id="_zeYtS1fV6yFxErIr1pmUIu" visible="true" type="4270">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_PQMgozikuLEn1-4WSb7XSH" x="0" y="5"/>
+      </children>
+      <children xmi:id="_GyU3KW_M8nRAFheX2arjgf" visible="true" type="5201">
+        <children xmi:id="_ddSVZBi_o2dMLaRM84kEDj" visible="true" type="3027">
+          <children xmi:id="_AgKTdYCwseP8acnM8wSFLo" visible="true" type="4266"/>
+          <children xmi:id="_DoxHJp5vYOSQyBr7b1P3pj" visible="true" type="3124">
+            <styles xsi:type="notation:ShapeStyle" xmi:id="_b2hAW-z4F62nVckW1_oI6p" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <element href="PlatformModel.cf_plf#_liS6YCG3EeaaOsqBPt_qWw"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_ZqMUrLjAFHl55hia1rwGZj" x="36" y="70" width="-1" height="-1"/>
+          </children>
+          <styles xsi:type="notation:ShapeStyle" xmi:id="_2Y6IBmWUG-50lub_dViYz9" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+          <styles xmi:id="_4I9eQdqnSSa1Foz5vhoWzF" xsi:type="notation:MultiDiagramLinkStyle"/>
+          <element href="PlatformModel.cf_plf#_l-im8SG2EeaaOsqBPt_qWw"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="__ajcTF9JzzLwmBqGd67L_6" x="20" y="137" width="46" height="70"/>
+        </children>
+        <children xmi:id="_KVzVSHe0DZevB0P3pnhaWM" visible="true" type="3027">
+          <children xmi:id="_1NesNqv7yBWPvEjDiy2FZq" visible="true" type="4266"/>
+          <children xmi:id="_eSlDmtPMvLcc6H1A1zO904" visible="true" type="3124">
+            <styles xsi:type="notation:ShapeStyle" xmi:id="_k77bqp6q0uRdYog8abiANY" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <element href="PlatformModel.cf_plf#_l1kbsiG3EeaaOsqBPt_qWw"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_XeCQs0yjDE2rJ-4magMdEn" x="43" y="70" width="-1" height="-1"/>
+          </children>
+          <styles xsi:type="notation:ShapeStyle" xmi:id="_C0L5mnMrp8TMkvZlUYwfJG" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+          <styles xmi:id="_x7fuPxci2RuACP7tMHRg-t" xsi:type="notation:MultiDiagramLinkStyle"/>
+          <element href="PlatformModel.cf_plf#_o4GOACG2EeaaOsqBPt_qWw"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_S0-RvAUtgqDic83K4vb-Bv" x="128" y="137" width="97" height="70"/>
+        </children>
+        <children xmi:id="_yC1y6SnsTgFKTw_DF9iiUh" visible="true" type="3028">
+          <children xmi:id="_tx3AefL70hoKR_m5tqjdmx" visible="true" type="4267"/>
+          <children xmi:id="_05E9sjbnnWjGWn05qllwcA" visible="true" type="3124">
+            <styles xsi:type="notation:ShapeStyle" xmi:id="_2-hvPIuGpqYBMAHd5lNIZP" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <element href="PlatformModel.cf_plf#_mcnNkSG3EeaaOsqBPt_qWw"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_awkVa9kw9_wmJljfWJgwbH" x="41" y="75" width="-1" height="-1"/>
+          </children>
+          <styles xsi:type="notation:ShapeStyle" xmi:id="_4_o4QcHIZQwcFpfUsxkc_J" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+          <styles xmi:id="_kgztUkvASfI03examzrDAj" xsi:type="notation:MultiDiagramLinkStyle"/>
+          <element href="PlatformModel.cf_plf#__TW6ICG2EeaaOsqBPt_qWw"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_8K4jKis9yQC3PlotA3-1m_" x="344" y="137" width="99" height="75"/>
+        </children>
+        <children xmi:id="_tqUvO1Bj4YyNQFyIGhcCVV" visible="true" type="3030">
+          <children xmi:id="_fyuY8kqYBp1gZeFDCdHgp9" visible="true" type="4360"/>
+          <styles xsi:type="notation:ShapeStyle" xmi:id="_YRA_5XuVz0aeO4WAKC6W57" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+          <styles xmi:id="_nNgaieYhG8hy7586pR6p9H" xsi:type="notation:MultiDiagramLinkStyle"/>
+          <element href="PlatformModel.cf_plf#_MbPWYCG3EeaaOsqBPt_qWw"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Z52P6EMqDnYhsRKOKG7Eag" x="20" y="40" width="422" height="80"/>
+        </children>
+        <children xmi:id="_1MNV2mqZchQnyZ8QPmQpXQ" visible="true" type="3027">
+          <children xmi:id="_j4AInplWaT7pXEkAjKk9lN" visible="true" type="4266"/>
+          <children xmi:id="_5qwXTSbdsqbyAGnJo1oEU5" visible="true" type="3124">
+            <styles xsi:type="notation:ShapeStyle" xmi:id="_qCgqhqjF34fz9DV7-27rYj" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <element href="PlatformModel.cf_plf#_iZxJkSG_EeaaOsqBPt_qWw"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Dbar4Fxpa_JRspTJZKrHsK" x="42" y="70" width="-1" height="-1"/>
+          </children>
+          <styles xsi:type="notation:ShapeStyle" xmi:id="_wEG3dENyK_jarR2Xj9teOg" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+          <styles xmi:id="_wsbe97zoZGBcPB8S7MXtDy" xsi:type="notation:MultiDiagramLinkStyle"/>
+          <element href="PlatformModel.cf_plf#_hB27cCG_EeaaOsqBPt_qWw"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_gp8sK8B5n-woUeZ-sizH4p" x="238" y="138" width="94" height="70"/>
+        </children>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_aT_GHk4edwKif5E95JE1qt" sorting="None"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_JjQVXre9BTsWU4d46Ue9gr" filtering="None"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_RsmS8DZNviLIHL1Lga2jpT" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false"/>
+      <styles xsi:type="notation:LineStyle" xmi:id="_sOs9cMvvGKGSSMDyjN89cU" lineColor="0" lineWidth="-1"/>
+      <styles xsi:type="notation:DescriptionStyle" xmi:id="_IH1ekLuZnuS8QgzRXJWmH2" description=""/>
+      <element href="PlatformModel.cf_plf#_l-im8CG2EeaaOsqBPt_qWw"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_spY2TeXle41RiyurlQ5dvc" x="0" y="0" width="-1" height="-1"/>
+    </children>
+    <styles xsi:type="notation:ShapeStyle" xmi:id="_XFHIbcs0ZceM4RXgG_rpz8" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+    <styles xmi:id="_nLJIhiPVJCdwgiazAEqia8" xsi:type="notation:MultiDiagramLinkStyle"/>
+    <element href="PlatformModel.cf_plf#_kay8QCG2EeaaOsqBPt_qWw"/>
+    <layoutConstraint xsi:type="notation:Bounds" xmi:id="_bRCWVCK-pO8HRFyXHSblMb" x="81" y="85" width="480" height="299"/>
+  </children>
+  <children xmi:id="_b4-CxCgzc2i0oUSQoUbK2K" visible="true" type="1101">
+    <children xmi:id="_ySY0uhUaWn4z7p9bcc5x7u" visible="true" type="4265"/>
+    <children xmi:id="_KqNu9FUJjQSaNJ8pYcHEFF" visible="true" type="3124">
+      <styles xsi:type="notation:ShapeStyle" xmi:id="_kFc1lFbdsBoZuwq9QOgOOu" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+      <element href="PlatformModel.cf_plf#_m7ilQCG3EeaaOsqBPt_qWw"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_yM4BJ6qUFO7tPexlj65Y9U" x="189" y="297" width="-1" height="-1"/>
+    </children>
+    <children xmi:id="_w5Gn3FrBEs2JLsOpRQ0Z60" visible="true" type="3124">
+      <styles xsi:type="notation:ShapeStyle" xmi:id="_uazosUsmCnqGDyyfo8H5ft" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+      <element href="PlatformModel.cf_plf#_p0AGgCG_EeaaOsqBPt_qWw"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_CtPXrjvz171QHDgvEX5m0T" x="71" y="297" width="-1" height="-1"/>
+    </children>
+    <children xmi:id="_PLblECHU0n8AMq7Kt0QTxW" visible="true" type="2133">
+      <children xmi:id="_BB4zBQgzys4vOIl-i_aiRq" visible="true" type="4270">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_DgnWXQ9TmIXaux_cqyw8KV" x="0" y="5"/>
+      </children>
+      <children xmi:id="_Hk7S_jJRybDT_uatshVUBj" visible="true" type="5201">
+        <children xmi:id="_3AdM5Q0-ejWsuxvonlA0jE" visible="true" type="3028">
+          <children xmi:id="_rKOtmLBo5-Zbk0gYQWVdFg" visible="true" type="4267"/>
+          <children xmi:id="_jsPWYq-mkY4C9hTJVlf9Q7" visible="true" type="3124">
+            <styles xsi:type="notation:ShapeStyle" xmi:id="_X1DS9SYMVvdY8zUE6hyI7i" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <element href="PlatformModel.cf_plf#_m7jMUSG3EeaaOsqBPt_qWw"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_t5DNzevWh-LM7ge4vm_7E7" x="45" y="75" width="-1" height="-1"/>
+          </children>
+          <styles xsi:type="notation:ShapeStyle" xmi:id="_UHa5wy6VqhHeB-FtY2jY2q" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+          <styles xmi:id="_8m1V2Mdmtfup5Vre1iPkxW" xsi:type="notation:MultiDiagramLinkStyle"/>
+          <element href="PlatformModel.cf_plf#_THyG5SG3EeaaOsqBPt_qWw"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PoBulAOsIfsdP1QeMbCL68" x="138" y="136" width="99" height="75"/>
+        </children>
+        <children xmi:id="_w62udpF3NrUJ_6D17rDNHW" visible="true" type="3027">
+          <children xmi:id="_OojnUN8bjR9mLIhrWDdqyG" visible="true" type="4266"/>
+          <children xmi:id="_1fPziCn9-aZqOi3g_HLHEk" visible="true" type="3124">
+            <styles xsi:type="notation:ShapeStyle" xmi:id="_ML_RkU1Eq8nswIZ060oi5d" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <element href="PlatformModel.cf_plf#_p0B7sCG_EeaaOsqBPt_qWw"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_W7O_u5wXRjvZ2Jc6qlOTOq" x="43" y="70" width="-1" height="-1"/>
+          </children>
+          <styles xsi:type="notation:ShapeStyle" xmi:id="_uaDwSAsAYO3UFfbZJAIhku" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+          <styles xmi:id="_urAXQ8-O0AD6uNfYJ3ReXH" xsi:type="notation:MultiDiagramLinkStyle"/>
+          <element href="PlatformModel.cf_plf#_pQX1ACG_EeaaOsqBPt_qWw"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_ETk9JIvOWexmh-DXJwww0T" x="22" y="137" width="97" height="70"/>
+        </children>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_f-84THcb3ofbxdyin75G76" sorting="None"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_AlHkWGz-a5PllT1ug5Ixa1" filtering="None"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_Yg6itmgVhYJVMSHuoGt15z" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false"/>
+      <styles xsi:type="notation:LineStyle" xmi:id="_sbxj8Ycvvtox4Sg0on7oC5" lineColor="0" lineWidth="-1"/>
+      <styles xsi:type="notation:DescriptionStyle" xmi:id="_4vIlSR3FYZvm7UKki_yapn" description=""/>
+      <element href="PlatformModel.cf_plf#_THwRsCG3EeaaOsqBPt_qWw"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_7wPA5DW6-mWj6UI3U661gJ" x="0" y="0" width="-1" height="-1"/>
+    </children>
+    <styles xsi:type="notation:ShapeStyle" xmi:id="_hJQIEpYTocZam2LQWKew3e" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+    <styles xmi:id="_zjT6TTu4styXAnx8k3LQzJ" xsi:type="notation:MultiDiagramLinkStyle"/>
+    <element href="PlatformModel.cf_plf#_Qdfq4CG3EeaaOsqBPt_qWw"/>
+    <layoutConstraint xsi:type="notation:Bounds" xmi:id="_HxMgTDEpGPcnxylN9iMhfO" x="583" y="85" width="279" height="297"/>
+  </children>
+  <children xmi:id="_sL9cqRj2o3fSTUDPVpOFTx" visible="true" type="1002">
+    <children xmi:id="_loeb-lggRS-QN5cjGkjUmT" visible="true" type="4461"/>
+    <children xmi:id="_8CeTLV43vprwGs3Bi_pJVh" visible="true" type="3124">
+      <styles xsi:type="notation:ShapeStyle" xmi:id="_T71oiYXRZCa3HVTx7KqwGb" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+      <element href="PlatformModel.cf_plf#_nPsQUCG3EeaaOsqBPt_qWw"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_H1l2J80MYCvnhNKVzi06l4" x="180" y="-10" width="-1" height="-1"/>
+    </children>
+    <children xmi:id="_uDepQqDY9DrhW9_GwvCV-E" visible="true" type="2233">
+      <children xmi:id="_MQl0vrqZE3fGGk7jXOEfcn" visible="true" type="4162">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_U9ed_DIUExsT87PxcJdDy0" x="0" y="5"/>
+      </children>
+      <children xmi:id="_Uf8QuR8ucUWzT-zmH_ULJt" visible="true" type="5102">
+        <children xmi:id="_QY2xhcIQX5eHN4U_8DVaZJ" visible="true" type="3028">
+          <children xmi:id="_pO3ZAEc9Q9Q_qzInPTLEnY" visible="true" type="4267"/>
+          <children xmi:id="_bS-dfO2yXXa_aNen1cZ9pB" visible="true" type="3124">
+            <styles xsi:type="notation:ShapeStyle" xmi:id="_RUKLCaE0nwA7g6uNpJhG7O" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+            <element href="PlatformModel.cf_plf#_nPvToCG3EeaaOsqBPt_qWw"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Or_2jBiDMX6c8iD9KrNZ2f" x="86" y="-10" width="-1" height="-1"/>
+          </children>
+          <styles xsi:type="notation:ShapeStyle" xmi:id="_bxe8-dsCK5eFMWH0QJmxMe" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+          <styles xmi:id="_E0dPyX3XeDwrqlCVXjTv2x" xsi:type="notation:MultiDiagramLinkStyle"/>
+          <element href="PlatformModel.cf_plf#_gsm90CG3EeaaOsqBPt_qWw"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_TPbip5GH6tkKAJGUB7yrBm" x="85" y="26" width="120" height="89"/>
+        </children>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_ZxTFYFrQkxDazfBF-J0LBa" sorting="None"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_cQVwx4nthfHDpdaZGRafwA" filtering="None"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_UJcBC-x4qIV2S76WFWLJ7I" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false"/>
+      <styles xsi:type="notation:LineStyle" xmi:id="_I6f0wzHkNDl7ZQcZDtuSrb" lineColor="0" lineWidth="-1"/>
+      <styles xsi:type="notation:DescriptionStyle" xmi:id="_rD4gRChAPZ_R75lgXnABVs" description=""/>
+      <element href="PlatformModel.cf_plf#_gsmWwCG3EeaaOsqBPt_qWw"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_i1riiLjPK8yoq8XzIWxV33" x="0" y="0" width="-1" height="-1"/>
+    </children>
+    <styles xsi:type="notation:ShapeStyle" xmi:id="_N-DnuIZmFq6E32PiXFqo_j" fontColor="0" fontName="Ubuntu" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+    <styles xmi:id="_d03pmmXpdfisWrlN7YU2FH" xsi:type="notation:MultiDiagramLinkStyle"/>
+    <element href="PlatformModel.cf_plf#_fvaVwCG3EeaaOsqBPt_qWw"/>
+    <layoutConstraint xsi:type="notation:Bounds" xmi:id="_F6hyEkti5r9iJm_FnBTlrs" x="388" y="550" width="248" height="175"/>
+  </children>
+  <edges xmi:id="_EKNhkM2MPKCsEJHT5DBURk" visible="true" type="4024" source="_EgT8Jy8TVM0NPdOJAgDjdG" target="_9AvraWmJ_C_E-tLYCHdfcq">
+    <styles xsi:type="notation:ConnectorStyle" xmi:id="_HM1VIA6_Azuc2HJ10vDufm" roundedBendpointsRadius="0" routing="Rectilinear" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="16738622" lineWidth="-1"/>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_6MZrbLwOn5B2gSkgLGIhXj" points="[0,0,-8,-61]$[0,25,-8,-35]$[8,25,0,-35]$[8,61,0,0]"/>
+    <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_XkSyNObfr38q9gO_gl05iW" id="(0.06, 0)"/>
+  </edges>
+  <edges xmi:id="_ahNsWFW25Bq0kalYvurz2S" visible="true" type="4024" source="_JKHcdoJwtpCi7IzgoUkyEz" target="_9AvraWmJ_C_E-tLYCHdfcq">
+    <styles xsi:type="notation:ConnectorStyle" xmi:id="_XTHVDS3oz9OxWAtvp3wfzZ" roundedBendpointsRadius="0" routing="Rectilinear" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="16738622" lineWidth="-1"/>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_oFs6ocN11RSZXFM_csx4ph" points="[0,0,0,-61]$[0,25,0,-35]$[0,25,0,-35]$[0,61,0,0]"/>
+    <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_Y_eJjb5yeFVTAJTc1rCIFD" id="(0.2, 0)"/>
+  </edges>
+  <edges xmi:id="_dXvUGSRDgtFmz_Rortqw33" visible="true" type="4024" source="_nNfJ-8m-9JWVGDEppSzhNO" target="_9AvraWmJ_C_E-tLYCHdfcq">
+    <styles xsi:type="notation:ConnectorStyle" xmi:id="_6Ex0hw3ux2bZ1Y1FmMIb2f" roundedBendpointsRadius="0" routing="Rectilinear" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="16738622" lineWidth="-1"/>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_LYRYkuG6XuHD7vKFuQlnpU" points="[0,0,11,-61]$[0,25,11,-35]$[-11,25,0,-35]$[-11,61,0,0]"/>
+    <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_jdMqyR3rA-1kfYK6jrLueE" id="(0.48, 0)"/>
+  </edges>
+  <edges xmi:id="_F1UvX_pxa4S5lqPUFbR7VO" visible="true" type="4024" source="_8CeTLV43vprwGs3Bi_pJVh" target="_9AvraWmJ_C_E-tLYCHdfcq">
+    <styles xsi:type="notation:ConnectorStyle" xmi:id="_vey4u-BDqg4INhyfAIK7Bi" roundedBendpointsRadius="0" routing="Rectilinear" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="16738622" lineWidth="-1"/>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_8kC-6XqzauV8mdlTyBDdEp" points="[0,0,13,46]$[0,-18,13,28]$[-13,-18,0,28]$[-13,-46,0,0]"/>
+    <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_sTQeEAQpXw8y-3V7mwVyvA" id="(0.61, 1)"/>
+  </edges>
+  <edges xmi:id="_GaeHyu3htRMI-IjJR0VcOh" visible="true" type="4024" source="_FHIVQ-94kvBy7_IM5wU_7G" target="_9AvraWmJ_C_E-tLYCHdfcq">
+    <styles xsi:type="notation:ConnectorStyle" xmi:id="_YuJVmDK-iKR_HFue_Ox3LQ" roundedBendpointsRadius="0" routing="Rectilinear" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="16738622" lineWidth="-1"/>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_FbNPEflZ7pbMNW_UAcO2mM" points="[0,0,0,-61]$[0,25,0,-35]$[0,25,0,-35]$[0,61,0,0]"/>
+    <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_iSMB8tELnm34kz9oEJipld" id="(0.35, 0)"/>
+  </edges>
+  <edges xmi:id="_oKMr-r1OKl7xjASwDXg1IA" visible="true" type="4024" source="_w5Gn3FrBEs2JLsOpRQ0Z60" target="_9AvraWmJ_C_E-tLYCHdfcq">
+    <styles xsi:type="notation:ConnectorStyle" xmi:id="_Bb8NOj2G0wKJpZ1ymuvM1Z" roundedBendpointsRadius="0" routing="Rectilinear" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="16738622" lineWidth="-1"/>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_i6DKpaIaV2K083Cg1qDujk" points="[0,0,12,-63]$[0,26,12,-36]$[-12,26,0,-36]$[-12,63,0,0]"/>
+    <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_qf_iKRsKuKRTD5RvnZQC0Y" id="(0.73, 0)"/>
+  </edges>
+  <edges xmi:id="_JM9m80NJJlEmclFEUgQcMx" visible="true" type="4024" source="_KqNu9FUJjQSaNJ8pYcHEFF" target="_9AvraWmJ_C_E-tLYCHdfcq">
+    <styles xsi:type="notation:ConnectorStyle" xmi:id="_WcGjTgC2PtnnFdvS1Hems0" roundedBendpointsRadius="0" routing="Rectilinear" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="16738622" lineWidth="-1"/>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_hsybJoScRr51a9phbY3vyu" points="[0,0,21,-63]$[0,26,21,-36]$[-21,26,0,-36]$[-21,63,0,0]"/>
+    <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_4GvoX1RV_6WBdFxHxC2yVN" id="(0.88, 0)"/>
+  </edges>
+  <edges xmi:id="_sw-hzr7oJBa_kmjUQV2Pzn" visible="true" type="4125" source="_DoxHJp5vYOSQyBr7b1P3pj" target="_EgT8Jy8TVM0NPdOJAgDjdG">
+    <styles xsi:type="notation:ConnectorStyle" xmi:id="_48CWHWzZrTT7R9eZXYIlLl" roundedBendpointsRadius="0" routing="Rectilinear" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="16738622" lineWidth="-1"/>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_rjvh-r40iBeSX_7hWQR10O" points="[0,0,-11,-68]$[0,34,-11,-34]$[11,34,0,-34]$[11,68,0,0]"/>
+  </edges>
+  <edges xmi:id="_8U-sKWkgHyizqiRP_GAHfA" visible="true" type="4125" source="_eSlDmtPMvLcc6H1A1zO904" target="_JKHcdoJwtpCi7IzgoUkyEz">
+    <styles xsi:type="notation:ConnectorStyle" xmi:id="_EObomypQmIxOGlt3bgouIU" roundedBendpointsRadius="0" routing="Rectilinear" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="16738622" lineWidth="-1"/>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_JmvAFTO-aYXyMwzLtDHIL6" points="[0,0,-6,-68]$[0,34,-6,-34]$[6,34,0,-34]$[6,68,0,0]"/>
+  </edges>
+  <edges xmi:id="_PnirRsbO3s0WQMbccvPIZa" visible="true" type="4125" source="_05E9sjbnnWjGWn05qllwcA" target="_nNfJ-8m-9JWVGDEppSzhNO">
+    <styles xsi:type="notation:ConnectorStyle" xmi:id="_OGkPkWV45cijN9mgzlO72J" roundedBendpointsRadius="0" routing="Rectilinear" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="16738622" lineWidth="-1"/>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_hNnSoTczcmBIKWNwKMkZc3" points="[0,0,-6,-63]$[0,31,-6,-31]$[6,31,0,-31]$[6,63,0,0]"/>
+  </edges>
+  <edges xmi:id="_yanWmwF2cvXA9_7__CJwUk" visible="true" type="4125" source="_5qwXTSbdsqbyAGnJo1oEU5" target="_FHIVQ-94kvBy7_IM5wU_7G">
+    <styles xsi:type="notation:ConnectorStyle" xmi:id="_Sdh4z0n-KtHylpFGp5N1AF" roundedBendpointsRadius="0" routing="Rectilinear" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="16738622" lineWidth="-1"/>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_b922yYRzBmoXjDbb7DKqMx" points="[0,0,-6,-67]$[0,33,-6,-33]$[6,33,0,-33]$[6,67,0,0]"/>
+  </edges>
+  <edges xmi:id="_Mr8U4qg3sZpIgy_IET8n2r" visible="true" type="4125" source="_jsPWYq-mkY4C9hTJVlf9Q7" target="_KqNu9FUJjQSaNJ8pYcHEFF">
+    <styles xsi:type="notation:ConnectorStyle" xmi:id="_NZk9YoPkZvIfxJHDwIJ0T-" roundedBendpointsRadius="0" routing="Rectilinear" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="16738622" lineWidth="-1"/>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_o2zEUfhDIbtB03HtXb1AFX" points="[0,0,-6,-62]$[0,31,-6,-31]$[6,31,0,-31]$[6,62,0,0]"/>
+  </edges>
+  <edges xmi:id="_5Iibh6l3CaPCvTJ_KDbAnU" visible="true" type="4125" source="_1fPziCn9-aZqOi3g_HLHEk" target="_w5Gn3FrBEs2JLsOpRQ0Z60">
+    <styles xsi:type="notation:ConnectorStyle" xmi:id="_ciRl5XoQ76x7djLg2TPC9Z" roundedBendpointsRadius="0" routing="Rectilinear" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="16738622" lineWidth="-1"/>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_zxL3RC-RsvH7wuAu7F5ZTf" points="[0,0,-6,-66]$[0,33,-6,-33]$[6,33,0,-33]$[6,66,0,0]"/>
+  </edges>
+  <edges xmi:id="_Yq2bOsEOEmpdY6G0H1jKGS" visible="true" type="4125" source="_bS-dfO2yXXa_aNen1cZ9pB" target="_8CeTLV43vprwGs3Bi_pJVh">
+    <styles xsi:type="notation:ConnectorStyle" xmi:id="_zPOjopgonqN8vJfPy-YC-6" roundedBendpointsRadius="0" routing="Rectilinear" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="16738622" lineWidth="-1"/>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_GDYTbyZkG179Wk6axjrOt2" points="[0,0,-9,50]$[0,-25,-9,25]$[9,-25,0,25]$[9,-50,0,0]"/>
+  </edges>
+</notation:Diagram>

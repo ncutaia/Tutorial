@@ -1,0 +1,9 @@
+<charts:YFTChart xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:charts="http://cofluent.intel.com/charts/1.0.0" xmlns:cofluent="http://cofluent.intel.com/cofluent/1.0.0" xmi:version="2.0" rangeTime="false" locked="false" zoomRange="false" fillColor="16777215" captionPosition="SOUTH" grid="false" captionOrientation="HORIZONTAL" internalUnit="">
+  <model xsi:type="cofluent:Application" href="../MappingModelRefinement.cf_map#_phcPgCHCEeabQeYe_jeiMw"/>
+  <probes xsi:type="charts:DynamicProbe" variable="TestCons" type="VARIABLE"/>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <element xsi:type="cofluent:SharedVariable" href="../ApplicationModelRefinement.cf_app#_U8FMiSGrEeaaOsqBPt_qWw"/>
+  </probes>
+  <plots probe="//@probes.0" display="INTERPOLATION" color="65280" width="1"/>
+  <plots probe="//@probes.1" display="INTERPOLATION" color="255" width="1"/>
+</charts:YFTChart>

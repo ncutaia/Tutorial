@@ -1,0 +1,8 @@
+<project tests="tc_app_0, tc_app_1, tc_app_2, tc_map_1, tc_map_2, tc_map_3">
+       <tc_app_0 path="Tutorial/models/ApplicationModel.cf_app" simulationArgs='--cf-sim-duration="10 us" '/>
+	   <tc_app_1 path="Tutorial/models/ApplicationModelRefinement.cf_app" simulationArgs='--cf-sim-duration="10 us" '/>
+	   <tc_app_2 path="Tutorial/models/ApplicationModelRefinement.cf_app" simulationArgs='--cf-sim-duration="10 us"  '/>
+	   <tc_map_1 path="Tutorial/models/MappingModel.cf_map" simulationArgs='--cf-sim-duration="20 us" --cf-apf-enable=yes '/>
+	   <tc_map_2 path="Tutorial/models/MappingModelRefinement.cf_map" simulationArgs='--cf-sim-duration="20 us" --cf-apf-enable=yes '/>	
+	   <tc_map_3 path="Tutorial/models/MappingModelRefinement.cf_map" simulationArgs='--cf-sim-duration="20 us" --cf-apf-enable=yes '/>	
+</project>

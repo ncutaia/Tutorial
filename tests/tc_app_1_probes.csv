@@ -1,0 +1,9 @@
+component_name,component_type,probe_configuration
+/ApplicationModelRefinement/Producer/Generator,FUNCTION,MON_STATE_ONLY
+/ApplicationModelRefinement/Producer/Req,EVENT,MON_STATE_ONLY
+/ApplicationModelRefinement/Producer/DataVar,SHARED_VARIABLE,MON_STATE_ONLY
+/ApplicationModelRefinement/Producer/Sender,FUNCTION,MON_STATE_ONLY
+/ApplicationModelRefinement/Msg,MESSAGE_QUEUE,MON_STATE_ONLY
+/ApplicationModelRefinement/Ack,MESSAGE_QUEUE,MON_STATE_ONLY
+/ApplicationModelRefinement/Receiver,FUNCTION,MON_STATE_ONLY
+/ApplicationModelRefinement/Producer/TestProd,SHARED_VARIABLE,MON_STATE_VALUE

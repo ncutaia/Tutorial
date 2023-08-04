@@ -1,0 +1,63 @@
+<cofluent:Mapping xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cofluent="http://cofluent.intel.com/cofluent/1.0.0" xmi:version="2.0" xmi:id="_phcPgCHCEeabQeYe_jeiMw" name="MappingModelRefinement" version="6.2.0_beta1_20160523-2100" sourceInstance="_phcPgSHCEeabQeYe_jeiMw">
+  <destination xsi:type="cofluent:Platform" href="PlatformModel.cf_plf#_-PZ2QBhUEeaRJZtBX_vAyA"/>
+  <pairs xmi:id="_mliO4Xk-jC4VCYE0o_rrUQ" sourceInstance="_phcPgyHCEeabQeYe_jeiMw">
+    <destination xsi:type="cofluent:Scheduler" href="PlatformModel.cf_plf#_MbPWYCG3EeaaOsqBPt_qWw"/>
+    <dataPaths xmi:id="_Sw2utU7LwwTTXTlbQ36ywC" relationInstance="_phcPhiHCEeabQeYe_jeiMw"/>
+    <dataPaths xmi:id="_JaUHJuo2u14-4EvQFmOHRD" relationInstance="_phcPiiHCEeabQeYe_jeiMw">
+      <communicationPath href="PlatformModel.cf_plf#_037AkCG3EeaaOsqBPt_qWw"/>
+    </dataPaths>
+    <dataPaths xmi:id="_tzRCOVh4t-lNdjQcprd-qn" relationInstance="_phcPiSHCEeabQeYe_jeiMw">
+      <communicationPath href="PlatformModel.cf_plf#_02eVcCG_EeaaOsqBPt_qWw"/>
+    </dataPaths>
+    <dataPaths xmi:id="_zHnbU9_1aI5mKe_sQIm5oo" relationInstance="_phcPhyHCEeabQeYe_jeiMw">
+      <communicationPath href="PlatformModel.cf_plf#_yWXJICG_EeaaOsqBPt_qWw"/>
+    </dataPaths>
+  </pairs>
+  <pairs xmi:id="_Sq1o68MRRmmj27HIbQqHXA" sourceInstance="_phcPhCHCEeabQeYe_jeiMw">
+    <destination xsi:type="cofluent:Scheduler" href="PlatformModel.cf_plf#_MbPWYCG3EeaaOsqBPt_qWw"/>
+    <dataPaths xmi:id="_7ThQOJh8fYqSolKz2Tctpq" relationInstance="_phcPhiHCEeabQeYe_jeiMw"/>
+    <dataPaths xmi:id="_Y7LS7aB5HVrPwJ14vM5v_q" relationInstance="_phcPhyHCEeabQeYe_jeiMw">
+      <communicationPath href="PlatformModel.cf_plf#_99O_QCG3EeaaOsqBPt_qWw"/>
+    </dataPaths>
+    <dataPaths xmi:id="_bSFwT5Zr6fROWdD43uoTBI" relationInstance="_phcPhSHCEeabQeYe_jeiMw"/>
+  </pairs>
+  <pairs xmi:id="_HoBhpbGDW-_Mo_rVobtzmQ" sourceInstance="_phcPiCHCEeabQeYe_jeiMw">
+    <destination xsi:type="cofluent:Processor" href="PlatformModel.cf_plf#_Qdfq4CG3EeaaOsqBPt_qWw"/>
+    <dataPaths xmi:id="_oYAfoDGmY1x8CvyMoou6xl" relationInstance="_phcPiSHCEeabQeYe_jeiMw">
+      <communicationPath href="PlatformModel.cf_plf#_02eVcCG_EeaaOsqBPt_qWw"/>
+    </dataPaths>
+    <dataPaths xmi:id="_7RKXGSQ-W8b3svAIN_KE0-" relationInstance="_phcPiiHCEeabQeYe_jeiMw">
+      <communicationPath href="PlatformModel.cf_plf#_037AkCG3EeaaOsqBPt_qWw"/>
+    </dataPaths>
+  </pairs>
+  <instance xmi:id="_phcPgSHCEeabQeYe_jeiMw">
+    <element xsi:type="cofluent:Application" href="ApplicationModelRefinement.cf_app#_UsFT4B3VEeaquPXHm3CdXA"/>
+    <children xmi:id="_phcPgiHCEeabQeYe_jeiMw">
+      <element xsi:type="cofluent:Function" href="ApplicationModelRefinement.cf_app#_OgPxgCGrEeaaOsqBPt_qWw"/>
+      <children xmi:id="_phcPgyHCEeabQeYe_jeiMw">
+        <element xsi:type="cofluent:Function" href="ApplicationModelRefinement.cf_app#_U8HowCGrEeaaOsqBPt_qWw"/>
+      </children>
+      <children xmi:id="_phcPhCHCEeabQeYe_jeiMw">
+        <element xsi:type="cofluent:Function" href="reuse://_xhZAECGrEeaaOsqBPt_qWw/Tutorial/Tutorial/models/ApplicationModel.cf_app#_baqE5hkYEealL-5xWZDvNw"/>
+      </children>
+      <children xmi:id="_phcPhSHCEeabQeYe_jeiMw">
+        <element xsi:type="cofluent:SharedVariable" href="ApplicationModelRefinement.cf_app#_U8FMiSGrEeaaOsqBPt_qWw"/>
+      </children>
+      <children xmi:id="_phcPhiHCEeabQeYe_jeiMw">
+        <element xsi:type="cofluent:Event" href="ApplicationModelRefinement.cf_app#_U8FzkCGrEeaaOsqBPt_qWw"/>
+      </children>
+      <children xmi:id="_phcPhyHCEeabQeYe_jeiMw">
+        <element xsi:type="cofluent:SharedVariable" href="ApplicationModelRefinement.cf_app#_U8FzniGrEeaaOsqBPt_qWw"/>
+      </children>
+    </children>
+    <children xmi:id="_phcPiCHCEeabQeYe_jeiMw">
+      <element xsi:type="cofluent:Function" href="ApplicationModelRefinement.cf_app#_HoP3kCGuEeaaOsqBPt_qWw"/>
+    </children>
+    <children xmi:id="_phcPiSHCEeabQeYe_jeiMw">
+      <element xsi:type="cofluent:MessageQueue" href="ApplicationModelRefinement.cf_app#_HoOpcCGuEeaaOsqBPt_qWw"/>
+    </children>
+    <children xmi:id="_phcPiiHCEeabQeYe_jeiMw">
+      <element xsi:type="cofluent:MessageQueue" href="ApplicationModelRefinement.cf_app#_HoRFuSGuEeaaOsqBPt_qWw"/>
+    </children>
+  </instance>
+</cofluent:Mapping>

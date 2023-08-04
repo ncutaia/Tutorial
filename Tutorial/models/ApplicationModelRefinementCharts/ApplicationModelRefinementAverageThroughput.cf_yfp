@@ -1,0 +1,5 @@
+<charts:YFParamChart xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:charts="http://cofluent.intel.com/charts/1.0.0" xmlns:cofluent="http://cofluent.intel.com/cofluent/1.0.0" xmi:version="2.0" rangeTime="false" locked="false" zoomRange="false" fillColor="16777215" captionPosition="SOUTH" grid="false" captionOrientation="HORIZONTAL">
+  <model xsi:type="cofluent:Application" href="../ApplicationModelRefinement.cf_app#_UsFT4B3VEeaquPXHm3CdXA"/>
+  <probes xsi:type="charts:DynamicProbe" variable="AverageThroughput" type="VARIABLE"/>
+  <plots probe="//@probes.0" display="INTERPOLATION" color="255" width="1"/>
+</charts:YFParamChart>

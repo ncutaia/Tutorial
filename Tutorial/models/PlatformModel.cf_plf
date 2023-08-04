@@ -1,0 +1,118 @@
+<cofluent:Platform xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cofluent="http://cofluent.intel.com/cofluent/1.0.0" xmi:version="2.0" cyclePeriod="10 ns" voltage="3 V" name="PlatformModel" xmi:id="_-PZ2QBhUEeaRJZtBX_vAyA">
+  <designParameters min="1" max="10" step="1" type="INTEGER" default="1" visibility="PUBLIC" accessRight="READ_ONLY" value="1" name="CoProcSpeedUp" documentation="Speed-up ratio of co-procesor" xsi:type="cofluent:RangeParameter" xmi:id="_C8JJQCG4EeaaOsqBPt_qWw"/>
+  <designParameters min="1" max="100" step="1" type="INTEGER" default="10" visibility="PUBLIC" accessRight="READ_ONLY" value="10" name="BusThroughput" documentation="Bus throughput in MBytes/s" xsi:type="cofluent:RangeParameter" xmi:id="_JI7boCG4EeaaOsqBPt_qWw"/>
+  <communicationPaths xmi:id="_037AkCG3EeaaOsqBPt_qWw" first="_037AkSG3EeaaOsqBPt_qWw">
+    <elements xmi:id="_037AkSG3EeaaOsqBPt_qWw" next="_037AkiG3EeaaOsqBPt_qWw" element="_kay8QCG2EeaaOsqBPt_qWw" indexOfElement="0"/>
+    <elements xmi:id="_037AkiG3EeaaOsqBPt_qWw" previous="_037AkSG3EeaaOsqBPt_qWw" next="_037AkyG3EeaaOsqBPt_qWw" element="_l-im8SG2EeaaOsqBPt_qWw" indexOfElement="0"/>
+    <elements xmi:id="_037AkyG3EeaaOsqBPt_qWw" previous="_037AkiG3EeaaOsqBPt_qWw" next="_037AlCG3EeaaOsqBPt_qWw" element="_afD2cCG3EeaaOsqBPt_qWw" indexOfElement="0"/>
+    <elements xmi:id="_037AlCG3EeaaOsqBPt_qWw" previous="_037AkyG3EeaaOsqBPt_qWw" next="_037AlSG3EeaaOsqBPt_qWw" element="_THyG5SG3EeaaOsqBPt_qWw" indexOfElement="0"/>
+    <elements xmi:id="_037AlSG3EeaaOsqBPt_qWw" previous="_037AlCG3EeaaOsqBPt_qWw" element="_Qdfq4CG3EeaaOsqBPt_qWw" indexOfElement="0"/>
+  </communicationPaths>
+  <communicationPaths xmi:id="_99O_QCG3EeaaOsqBPt_qWw" first="_99O_QSG3EeaaOsqBPt_qWw">
+    <elements xmi:id="_99O_QSG3EeaaOsqBPt_qWw" next="_99O_QiG3EeaaOsqBPt_qWw" element="_kay8QCG2EeaaOsqBPt_qWw" indexOfElement="0"/>
+    <elements xmi:id="_99O_QiG3EeaaOsqBPt_qWw" previous="_99O_QSG3EeaaOsqBPt_qWw" next="_99O_QyG3EeaaOsqBPt_qWw" element="_o4GOACG2EeaaOsqBPt_qWw" indexOfElement="0"/>
+    <elements xmi:id="_99O_QyG3EeaaOsqBPt_qWw" previous="_99O_QiG3EeaaOsqBPt_qWw" next="_99O_RCG3EeaaOsqBPt_qWw" element="_afD2cCG3EeaaOsqBPt_qWw" indexOfElement="0"/>
+    <elements xmi:id="_99O_RCG3EeaaOsqBPt_qWw" previous="_99O_QyG3EeaaOsqBPt_qWw" next="_99O_RSG3EeaaOsqBPt_qWw" element="_gsm90CG3EeaaOsqBPt_qWw" indexOfElement="0"/>
+    <elements xmi:id="_99O_RSG3EeaaOsqBPt_qWw" previous="_99O_RCG3EeaaOsqBPt_qWw" element="_fvaVwCG3EeaaOsqBPt_qWw" indexOfElement="0"/>
+  </communicationPaths>
+  <communicationPaths xmi:id="_yWXJICG_EeaaOsqBPt_qWw" first="_yWXJISG_EeaaOsqBPt_qWw">
+    <elements xmi:id="_yWXJISG_EeaaOsqBPt_qWw" next="_yWXJIiG_EeaaOsqBPt_qWw" element="_kay8QCG2EeaaOsqBPt_qWw" indexOfElement="0"/>
+    <elements xmi:id="_yWXJIiG_EeaaOsqBPt_qWw" previous="_yWXJISG_EeaaOsqBPt_qWw" next="_yWXJIyG_EeaaOsqBPt_qWw" element="_hB27cCG_EeaaOsqBPt_qWw" indexOfElement="0"/>
+    <elements xmi:id="_yWXJIyG_EeaaOsqBPt_qWw" previous="_yWXJIiG_EeaaOsqBPt_qWw" next="_yWXJJCG_EeaaOsqBPt_qWw" element="_afD2cCG3EeaaOsqBPt_qWw" indexOfElement="0"/>
+    <elements xmi:id="_yWXJJCG_EeaaOsqBPt_qWw" previous="_yWXJIyG_EeaaOsqBPt_qWw" next="_yWXJJSG_EeaaOsqBPt_qWw" element="_gsm90CG3EeaaOsqBPt_qWw" indexOfElement="0"/>
+    <elements xmi:id="_yWXJJSG_EeaaOsqBPt_qWw" previous="_yWXJJCG_EeaaOsqBPt_qWw" element="_fvaVwCG3EeaaOsqBPt_qWw" indexOfElement="0"/>
+  </communicationPaths>
+  <communicationPaths xmi:id="_02eVcCG_EeaaOsqBPt_qWw" first="_02eVcSG_EeaaOsqBPt_qWw">
+    <elements xmi:id="_02eVcSG_EeaaOsqBPt_qWw" next="_02eVciG_EeaaOsqBPt_qWw" element="_Qdfq4CG3EeaaOsqBPt_qWw" indexOfElement="0"/>
+    <elements xmi:id="_02eVciG_EeaaOsqBPt_qWw" previous="_02eVcSG_EeaaOsqBPt_qWw" next="_02eVcyG_EeaaOsqBPt_qWw" element="_pQX1ACG_EeaaOsqBPt_qWw" indexOfElement="0"/>
+    <elements xmi:id="_02eVcyG_EeaaOsqBPt_qWw" previous="_02eVciG_EeaaOsqBPt_qWw" next="_02eVdCG_EeaaOsqBPt_qWw" element="_afD2cCG3EeaaOsqBPt_qWw" indexOfElement="0"/>
+    <elements xmi:id="_02eVdCG_EeaaOsqBPt_qWw" previous="_02eVcyG_EeaaOsqBPt_qWw" next="_02eVdSG_EeaaOsqBPt_qWw" element="__TW6ICG2EeaaOsqBPt_qWw" indexOfElement="0"/>
+    <elements xmi:id="_02eVdSG_EeaaOsqBPt_qWw" previous="_02eVdCG_EeaaOsqBPt_qWw" element="_kay8QCG2EeaaOsqBPt_qWw" indexOfElement="0"/>
+  </communicationPaths>
+  <refinement name="PlatformModelSt" xsi:type="cofluent:Structure" xmi:id="_-PZ2RRhUEeaRJZtBX_vAyA">
+    <relations concurrency="2" arbitrationProtocol="FIFO" arbitrationTime="10 ns" transferTime="USERDATASIZE/BusThroughput ns" voltage=" V" staticPowerConsumption="0 uW" dynamicPowerConsumption="0 uW" cost="1 USD" dynamicResourceLoad="100" includeInheritedHeader="" inheritanceClass="" callToInheritedConstructors="" name="BUS" xmi:id="_afD2cCG3EeaaOsqBPt_qWw" xsi:type="cofluent:Bus" ports="_liMMsCG3EeaaOsqBPt_qWw _l1j0oCG3EeaaOsqBPt_qWw _mcmmgCG3EeaaOsqBPt_qWw _nPsQUCG3EeaaOsqBPt_qWw _iZwigCG_EeaaOsqBPt_qWw _p0AGgCG_EeaaOsqBPt_qWw _m7ilQCG3EeaaOsqBPt_qWw"/>
+    <models cyclePeriod=" ns" speedUpRatio="1" voltage=" V" staticPowerConsumption=" uW" dynamicPowerConsumption=" uW" cost="1 USD" availableMemory="1 MB" staticResourceLoad="0" includes="" includeInheritedHeader="" inheritanceClass="" callToInheritedConstructors="" name="CPU" xmi:id="_kay8QCG2EeaaOsqBPt_qWw" xsi:type="cofluent:Processor">
+      <ports type="BUS" direction="IN_OUT" size="" synchronizeName="true" vector="false" requestPipelineDepth="1" name="BUS" xmi:id="_liMMsCG3EeaaOsqBPt_qWw" relations="_afD2cCG3EeaaOsqBPt_qWw" ports="_liS6YCG3EeaaOsqBPt_qWw">
+        <constructorArguments/>
+        <templateArguments/>
+      </ports>
+      <ports type="BUS" direction="IN_OUT" size="" synchronizeName="true" vector="false" requestPipelineDepth="1" name="BUS" xmi:id="_l1j0oCG3EeaaOsqBPt_qWw" relations="_afD2cCG3EeaaOsqBPt_qWw" ports="_l1kbsiG3EeaaOsqBPt_qWw">
+        <constructorArguments/>
+        <templateArguments/>
+      </ports>
+      <ports type="BUS" direction="IN_OUT" size="" synchronizeName="true" vector="false" requestPipelineDepth="1" name="BUS" xmi:id="_mcmmgCG3EeaaOsqBPt_qWw" relations="_afD2cCG3EeaaOsqBPt_qWw" ports="_mcnNkSG3EeaaOsqBPt_qWw">
+        <constructorArguments/>
+        <templateArguments/>
+      </ports>
+      <ports type="BUS" direction="IN_OUT" size="" synchronizeName="true" vector="false" requestPipelineDepth="1" name="BUS" xmi:id="_iZwigCG_EeaaOsqBPt_qWw" relations="_afD2cCG3EeaaOsqBPt_qWw" ports="_iZxJkSG_EeaaOsqBPt_qWw">
+        <constructorArguments/>
+        <templateArguments/>
+      </ports>
+      <refinement name="CPUSt" xsi:type="cofluent:Structure" xmi:id="_l-im8CG2EeaaOsqBPt_qWw">
+        <models bufferPolicy="FIFO" bufferCapacity="1" availableMemory="1 MB" bufferReadTime="10 ns" bufferWriteTime="10 ns" dynamicPowerConsumption="0 uW" cost="0 USD" dynamicResourceLoad="100" concurrency="1" includeInheritedHeader="" inheritanceClass="" callToInheritedConstructors="" name="MI_WR_COPROC" xmi:id="_l-im8SG2EeaaOsqBPt_qWw" xsi:type="cofluent:MasterInterface">
+          <ports type="BUS" direction="IN_OUT" size="" synchronizeName="true" vector="false" requestPipelineDepth="1" name="BUS" xmi:id="_liS6YCG3EeaaOsqBPt_qWw" port="_liMMsCG3EeaaOsqBPt_qWw">
+            <constructorArguments/>
+            <templateArguments/>
+          </ports>
+        </models>
+        <models bufferPolicy="FIFO" bufferCapacity="1" availableMemory="1 MB" bufferReadTime="10 ns" bufferWriteTime="10 ns" dynamicPowerConsumption="0 uW" cost="0 USD" dynamicResourceLoad="100" concurrency="1" includeInheritedHeader="" inheritanceClass="" callToInheritedConstructors="" name="MI_WR_MEM" xmi:id="_o4GOACG2EeaaOsqBPt_qWw" xsi:type="cofluent:MasterInterface">
+          <ports type="BUS" direction="IN_OUT" size="" synchronizeName="true" vector="false" requestPipelineDepth="1" name="BUS" xmi:id="_l1kbsiG3EeaaOsqBPt_qWw" port="_l1j0oCG3EeaaOsqBPt_qWw">
+            <constructorArguments/>
+            <templateArguments/>
+          </ports>
+        </models>
+        <models bufferPolicy="FIFO" bufferCapacity="1" availableMemory="1 MB" bufferReadTime="10 ns" bufferWriteTime="10 ns" dynamicPowerConsumption="0 uW" cost="0 USD" dynamicResourceLoad="100" concurrency="1" includeInheritedHeader="" inheritanceClass="" callToInheritedConstructors="" name="SI_RD_COPROC" xmi:id="__TW6ICG2EeaaOsqBPt_qWw" xsi:type="cofluent:SlaveInterface">
+          <ports type="BUS" direction="IN_OUT" size="" synchronizeName="true" vector="false" requestPipelineDepth="1" name="BUS" xmi:id="_mcnNkSG3EeaaOsqBPt_qWw" port="_mcmmgCG3EeaaOsqBPt_qWw">
+            <constructorArguments/>
+            <templateArguments/>
+          </ports>
+        </models>
+        <models coresNumber="2" dynamicSchedulingInterval="200 ms" preemptive="true" schedulingTime="5 ns" taskContextLoadTime="5 ns" taskContextSaveTime="5 ns" timeSlicePeriod="100 us" staticPowerConsumption="0 uW" dynamicPowerConsumption="0 uW" cost="1 USD" dynamicResourceLoad="100" enableDynamicScheduling="false" includeInheritedHeader="" inheritanceClass="" callToInheritedConstructors="" name="SCHEDULER" xmi:id="_MbPWYCG3EeaaOsqBPt_qWw" xsi:type="cofluent:Scheduler"/>
+        <models bufferPolicy="FIFO" bufferCapacity="1" availableMemory="1 MB" bufferReadTime="10 ns" bufferWriteTime="10 ns" dynamicPowerConsumption="0 uW" cost="0 USD" dynamicResourceLoad="100" concurrency="1" includeInheritedHeader="" inheritanceClass="" callToInheritedConstructors="" name="MI_RD_MEM" xmi:id="_hB27cCG_EeaaOsqBPt_qWw" xsi:type="cofluent:MasterInterface">
+          <ports type="BUS" direction="IN_OUT" size="" synchronizeName="true" vector="false" requestPipelineDepth="1" name="BUS" xmi:id="_iZxJkSG_EeaaOsqBPt_qWw" port="_iZwigCG_EeaaOsqBPt_qWw">
+            <constructorArguments/>
+            <templateArguments/>
+          </ports>
+        </models>
+      </refinement>
+    </models>
+    <models cyclePeriod=" ns" speedUpRatio="1.0/CoProcSpeedUp" voltage=" V" staticPowerConsumption=" uW" dynamicPowerConsumption=" uW" cost="1 USD" availableMemory="1 MB" staticResourceLoad="0" includes="" includeInheritedHeader="" inheritanceClass="" callToInheritedConstructors="" name="COPROC" xmi:id="_Qdfq4CG3EeaaOsqBPt_qWw" xsi:type="cofluent:Processor">
+      <ports type="BUS" direction="IN_OUT" size="" synchronizeName="true" vector="false" requestPipelineDepth="1" name="BUS" xmi:id="_m7ilQCG3EeaaOsqBPt_qWw" relations="_afD2cCG3EeaaOsqBPt_qWw" ports="_m7jMUSG3EeaaOsqBPt_qWw">
+        <constructorArguments/>
+        <templateArguments/>
+      </ports>
+      <ports type="BUS" direction="IN_OUT" size="" synchronizeName="true" vector="false" requestPipelineDepth="1" name="BUS" xmi:id="_p0AGgCG_EeaaOsqBPt_qWw" relations="_afD2cCG3EeaaOsqBPt_qWw" ports="_p0B7sCG_EeaaOsqBPt_qWw">
+        <constructorArguments/>
+        <templateArguments/>
+      </ports>
+      <refinement name="COPROCSt" xsi:type="cofluent:Structure" xmi:id="_THwRsCG3EeaaOsqBPt_qWw">
+        <models bufferPolicy="FIFO" bufferCapacity="1" availableMemory="1 MB" bufferReadTime="10 ns" bufferWriteTime="10 ns" dynamicPowerConsumption="0 uW" cost="0 USD" dynamicResourceLoad="100" concurrency="1" includeInheritedHeader="" inheritanceClass="" callToInheritedConstructors="" name="SI_RD_CPU" xmi:id="_THyG5SG3EeaaOsqBPt_qWw" xsi:type="cofluent:SlaveInterface">
+          <ports type="BUS" direction="IN_OUT" size="" synchronizeName="true" vector="false" requestPipelineDepth="1" name="BUS" xmi:id="_m7jMUSG3EeaaOsqBPt_qWw" port="_m7ilQCG3EeaaOsqBPt_qWw">
+            <constructorArguments/>
+            <templateArguments/>
+          </ports>
+        </models>
+        <models bufferPolicy="FIFO" bufferCapacity="1" availableMemory="1 MB" bufferReadTime="10 ns" bufferWriteTime="10 ns" dynamicPowerConsumption="0 uW" cost="0 USD" dynamicResourceLoad="100" concurrency="1" includeInheritedHeader="" inheritanceClass="" callToInheritedConstructors="" name="MI_WR_CPU" xmi:id="_pQX1ACG_EeaaOsqBPt_qWw" xsi:type="cofluent:MasterInterface">
+          <ports type="BUS" direction="IN_OUT" size="" synchronizeName="true" vector="false" requestPipelineDepth="1" name="BUS" xmi:id="_p0B7sCG_EeaaOsqBPt_qWw" port="_p0AGgCG_EeaaOsqBPt_qWw">
+            <constructorArguments/>
+            <templateArguments/>
+          </ports>
+        </models>
+      </refinement>
+    </models>
+    <models speedUpRatio="1" availableMemory="1 GB" voltage=" V" staticPowerConsumption="0 uW" cost="1 USD" readTime="10 ns" writeTime="10 ns" dynamicResourceLoad="100" storageCapacity="1" storagePolicy="OVERWRITE" allowEmptyRead="false" includes="" includeInheritedHeader="" inheritanceClass="" callToInheritedConstructors="" name="MEMORY" xmi:id="_fvaVwCG3EeaaOsqBPt_qWw" xsi:type="cofluent:Memory">
+      <ports type="BUS" direction="IN_OUT" size="" synchronizeName="true" vector="false" requestPipelineDepth="1" name="BUS" xmi:id="_nPsQUCG3EeaaOsqBPt_qWw" relations="_afD2cCG3EeaaOsqBPt_qWw" ports="_nPvToCG3EeaaOsqBPt_qWw">
+        <constructorArguments/>
+        <templateArguments/>
+      </ports>
+      <refinement name="MEMORYSt" xsi:type="cofluent:Structure" xmi:id="_gsmWwCG3EeaaOsqBPt_qWw">
+        <models bufferPolicy="FIFO" bufferCapacity="1" availableMemory="1 MB" bufferReadTime="1 ns" bufferWriteTime="1 ns" dynamicPowerConsumption="0 uW" cost="0 USD" dynamicResourceLoad="100" concurrency="1" includeInheritedHeader="" inheritanceClass="" callToInheritedConstructors="" name="SI_MEM" xmi:id="_gsm90CG3EeaaOsqBPt_qWw" xsi:type="cofluent:SlaveInterface">
+          <ports type="BUS" direction="IN_OUT" size="" synchronizeName="true" vector="false" requestPipelineDepth="1" name="BUS" xmi:id="_nPvToCG3EeaaOsqBPt_qWw" port="_nPsQUCG3EeaaOsqBPt_qWw">
+            <constructorArguments/>
+            <templateArguments/>
+          </ports>
+        </models>
+      </refinement>
+    </models>
+  </refinement>
+</cofluent:Platform>

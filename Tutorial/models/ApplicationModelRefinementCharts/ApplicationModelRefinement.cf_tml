@@ -1,0 +1,30 @@
+<charts:TimelineChart xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:charts="http://cofluent.intel.com/charts/1.0.0" xmlns:cofluent="http://cofluent.intel.com/cofluent/1.0.0" xmi:version="2.0" rangeTime="false" locked="false" zoomRange="false" fillColor="-1" captionPosition="SOUTH" grid="false" cursor="true" enableTracking="false">
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <child messageCount="true" showProcessor="false">
+      <element href="../ApplicationModelRefinement.cf_app#_U8FzkCGrEeaaOsqBPt_qWw" xsi:type="cofluent:Event"/>
+    </child>
+    <element href="../ApplicationModelRefinement.cf_app#_OgPxgCGrEeaaOsqBPt_qWw" xsi:type="cofluent:Function"/>
+  </probes>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <child messageCount="true" showProcessor="false">
+      <element href="../ApplicationModelRefinement.cf_app#_U8FzniGrEeaaOsqBPt_qWw" xsi:type="cofluent:SharedVariable"/>
+    </child>
+    <element href="../ApplicationModelRefinement.cf_app#_OgPxgCGrEeaaOsqBPt_qWw" xsi:type="cofluent:Function"/>
+  </probes>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <child messageCount="true" showProcessor="false">
+      <element href="../ApplicationModelRefinement.cf_app#_U8HowCGrEeaaOsqBPt_qWw" xsi:type="cofluent:Function"/>
+    </child>
+    <element href="../ApplicationModelRefinement.cf_app#_OgPxgCGrEeaaOsqBPt_qWw" xsi:type="cofluent:Function"/>
+  </probes>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <element href="../ApplicationModelRefinement.cf_app#_HoRFuSGuEeaaOsqBPt_qWw" xsi:type="cofluent:MessageQueue"/>
+  </probes>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <element href="../ApplicationModelRefinement.cf_app#_HoOpcCGuEeaaOsqBPt_qWw" xsi:type="cofluent:MessageQueue"/>
+  </probes>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <element href="../ApplicationModelRefinement.cf_app#_HoP3kCGuEeaaOsqBPt_qWw" xsi:type="cofluent:Function"/>
+  </probes>
+  <model xsi:type="cofluent:Application" href="../ApplicationModelRefinement.cf_app#_UsFT4B3VEeaquPXHm3CdXA"/>
+</charts:TimelineChart>

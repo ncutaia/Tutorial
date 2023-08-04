@@ -1,0 +1,72 @@
+<charts:TimelineChart xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:charts="http://cofluent.intel.com/charts/1.0.0" xmlns:cofluent="http://cofluent.intel.com/cofluent/1.0.0" xmi:version="2.0" rangeTime="false" locked="false" zoomRange="false" fillColor="-1" captionPosition="SOUTH" grid="false" cursor="true" enableTracking="false">
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <element href="../PlatformModel.cf_plf#_kay8QCG2EeaaOsqBPt_qWw" xsi:type="cofluent:Processor"/>
+  </probes>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <child messageCount="true" showProcessor="false">
+      <element href="../PlatformModel.cf_plf#_MbPWYCG3EeaaOsqBPt_qWw" xsi:type="cofluent:Scheduler"/>
+    </child>
+    <element href="../PlatformModel.cf_plf#_kay8QCG2EeaaOsqBPt_qWw" xsi:type="cofluent:Processor"/>
+  </probes>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <child messageCount="true" showProcessor="false">
+      <element href="../ApplicationModel.cf_app#_baqE5hkYEealL-5xWZDvNw" xsi:type="cofluent:Function"/>
+    </child>
+    <element href="../ApplicationModel.cf_app#_baqE4BkYEealL-5xWZDvNw" xsi:type="cofluent:Function"/>
+    <probedInstance href="../MappingModel.cf_map#_3MntcSG_EeaaOsqBPt_qWw"/>
+  </probes>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <child messageCount="true" showProcessor="false">
+      <element href="../ApplicationModel.cf_app#_baqsbhkYEealL-5xWZDvNw" xsi:type="cofluent:Event"/>
+    </child>
+    <element href="../ApplicationModel.cf_app#_baqE4BkYEealL-5xWZDvNw" xsi:type="cofluent:Function"/>
+  </probes>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <child messageCount="true" showProcessor="false">
+      <element href="../ApplicationModel.cf_app#_baqscxkYEealL-5xWZDvNw" xsi:type="cofluent:SharedVariable"/>
+    </child>
+    <element href="../ApplicationModel.cf_app#_baqE4BkYEealL-5xWZDvNw" xsi:type="cofluent:Function"/>
+  </probes>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <child messageCount="true" showProcessor="false">
+      <element href="../ApplicationModel.cf_app#_baqsIBkYEealL-5xWZDvNw" xsi:type="cofluent:Function"/>
+    </child>
+    <element href="../ApplicationModel.cf_app#_baqE4BkYEealL-5xWZDvNw" xsi:type="cofluent:Function"/>
+    <probedInstance href="../MappingModel.cf_map#_3MoUgCG_EeaaOsqBPt_qWw"/>
+  </probes>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <child messageCount="true" showProcessor="false">
+      <element href="../PlatformModel.cf_plf#_l-im8SG2EeaaOsqBPt_qWw" xsi:type="cofluent:MasterInterface"/>
+    </child>
+    <element href="../PlatformModel.cf_plf#_kay8QCG2EeaaOsqBPt_qWw" xsi:type="cofluent:Processor"/>
+  </probes>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <child messageCount="true" showProcessor="false">
+      <element href="../PlatformModel.cf_plf#__TW6ICG2EeaaOsqBPt_qWw" xsi:type="cofluent:SlaveInterface"/>
+    </child>
+    <element href="../PlatformModel.cf_plf#_kay8QCG2EeaaOsqBPt_qWw" xsi:type="cofluent:Processor"/>
+  </probes>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <element href="../PlatformModel.cf_plf#_afD2cCG3EeaaOsqBPt_qWw" xsi:type="cofluent:Bus"/>
+  </probes>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <child messageCount="true" showProcessor="false">
+      <element href="../PlatformModel.cf_plf#_THyG5SG3EeaaOsqBPt_qWw" xsi:type="cofluent:SlaveInterface"/>
+    </child>
+    <element href="../PlatformModel.cf_plf#_Qdfq4CG3EeaaOsqBPt_qWw" xsi:type="cofluent:Processor"/>
+  </probes>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <child messageCount="true" showProcessor="false">
+      <element href="../PlatformModel.cf_plf#_pQX1ACG_EeaaOsqBPt_qWw" xsi:type="cofluent:MasterInterface"/>
+    </child>
+    <element href="../PlatformModel.cf_plf#_Qdfq4CG3EeaaOsqBPt_qWw" xsi:type="cofluent:Processor"/>
+  </probes>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <element href="../ApplicationModel.cf_app#_bau9YBkYEealL-5xWZDvNw" xsi:type="cofluent:Function"/>
+    <probedInstance href="../MappingModel.cf_map#_3MoUhCG_EeaaOsqBPt_qWw"/>
+  </probes>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <element href="../PlatformModel.cf_plf#_Qdfq4CG3EeaaOsqBPt_qWw" xsi:type="cofluent:Processor"/>
+  </probes>
+  <model xsi:type="cofluent:Mapping" href="../MappingModel.cf_map#_-Pq8ABhUEeaRJZtBX_vAyA"/>
+</charts:TimelineChart>

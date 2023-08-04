@@ -1,0 +1,409 @@
+{
+    "Tutorial/Tutorial/models/ApplicationModel.cf_app": [
+        {
+            "buildName": "ApplicationModel_MinGW",
+            "fastBuild": false,
+            "buildMode": "release",
+            "compiler": "mingw",
+            "sclProfile": "",
+            "parallelBuild": true,
+            "includePaths": [],
+            "sourceLocations": [],
+            "libPaths": [],
+            "libs": [],
+            "symbols": [],
+            "CXXFLAGS": [],
+            "LDFLAGS": [],
+            "preBuild": "",
+            "postBuild": "",
+            "active": true,
+            "conan": {
+                "enable": false,
+                "generateSystemCIP": false,
+                "conanPackages": [],
+                "resourcePaths": [],
+                "extraInstallParameters": " --build=missing "
+            },
+            "isim": {
+                "enableISIM": false,
+                "simicsClassName": "",
+                "EXTRA_MODULE_PATH": []
+            }
+        },
+        {
+            "buildName": "ApplicationModel_MSVC",
+            "fastBuild": false,
+            "buildMode": "release",
+            "compiler": "msvc",
+            "sclProfile": "",
+            "parallelBuild": true,
+            "includePaths": [],
+            "sourceLocations": [],
+            "libPaths": [],
+            "libs": [],
+            "symbols": [],
+            "CXXFLAGS": [],
+            "LDFLAGS": [],
+            "preBuild": "",
+            "postBuild": "",
+            "active": false,
+            "conan": {
+                "enable": false,
+                "generateSystemCIP": false,
+                "conanPackages": [],
+                "resourcePaths": [],
+                "extraInstallParameters": " --build=missing "
+            },
+            "isim": {
+                "enableISIM": false,
+                "simicsClassName": "",
+                "EXTRA_MODULE_PATH": []
+            }
+        },
+        {
+            "buildName": "ApplicationModel_GCC",
+            "fastBuild": true,
+            "buildMode": "release",
+            "compiler": "gcc",
+            "sclProfile": "",
+            "parallelBuild": true,
+            "includePaths": [],
+            "sourceLocations": [],
+            "libPaths": [],
+            "libs": [],
+            "symbols": [],
+            "CXXFLAGS": [],
+            "LDFLAGS": [],
+            "preBuild": "",
+            "postBuild": "",
+            "active": false,
+            "conan": {
+                "enable": false,
+                "generateSystemCIP": false,
+                "conanPackages": [],
+                "resourcePaths": [],
+                "extraInstallParameters": " --build=missing "
+            },
+            "isim": {
+                "enableISIM": false,
+                "simicsClassName": "",
+                "EXTRA_MODULE_PATH": []
+            }
+        }
+    ],
+    "Tutorial/Tutorial/models/ApplicationModelRefinement.cf_app": [
+        {
+            "buildName": "ApplicationModelRefinement_MinGW",
+            "fastBuild": false,
+            "buildMode": "release",
+            "compiler": "mingw",
+            "sclProfile": "",
+            "parallelBuild": true,
+            "includePaths": [],
+            "sourceLocations": [],
+            "libPaths": [],
+            "libs": [],
+            "symbols": [],
+            "CXXFLAGS": [],
+            "LDFLAGS": [],
+            "preBuild": "",
+            "postBuild": "",
+            "active": true,
+            "conan": {
+                "enable": false,
+                "generateSystemCIP": false,
+                "conanPackages": [],
+                "resourcePaths": [],
+                "extraInstallParameters": " --build=missing "
+            },
+            "isim": {
+                "enableISIM": false,
+                "simicsClassName": "",
+                "EXTRA_MODULE_PATH": []
+            }
+        },
+        {
+            "buildName": "ApplicationModelRefinement_MSVC",
+            "fastBuild": true,
+            "buildMode": "release",
+            "compiler": "msvc",
+            "sclProfile": "",
+            "parallelBuild": true,
+            "includePaths": [],
+            "sourceLocations": [],
+            "libPaths": [],
+            "libs": [],
+            "symbols": [],
+            "CXXFLAGS": [],
+            "LDFLAGS": [],
+            "preBuild": "",
+            "postBuild": "",
+            "active": false,
+            "conan": {
+                "enable": false,
+                "generateSystemCIP": false,
+                "conanPackages": [],
+                "resourcePaths": [],
+                "extraInstallParameters": " --build=missing "
+            },
+            "isim": {
+                "enableISIM": false,
+                "simicsClassName": "",
+                "EXTRA_MODULE_PATH": []
+            }
+        },
+        {
+            "buildName": "ApplicationModelRefinement_GCC",
+            "fastBuild": true,
+            "buildMode": "release",
+            "compiler": "gcc",
+            "sclProfile": "",
+            "parallelBuild": true,
+            "includePaths": [],
+            "sourceLocations": [],
+            "libPaths": [],
+            "libs": [],
+            "symbols": [],
+            "CXXFLAGS": [],
+            "LDFLAGS": [],
+            "preBuild": "",
+            "postBuild": "",
+            "active": false,
+            "conan": {
+                "enable": false,
+                "generateSystemCIP": false,
+                "conanPackages": [],
+                "resourcePaths": [],
+                "extraInstallParameters": " --build=missing "
+            },
+            "isim": {
+                "enableISIM": false,
+                "simicsClassName": "",
+                "EXTRA_MODULE_PATH": []
+            }
+        }
+    ],
+    "Tutorial/Tutorial/models/MappingModel.cf_map": [
+        {
+            "buildName": "MappingModel_MinGW",
+            "fastBuild": false,
+            "buildMode": "release",
+            "compiler": "mingw",
+            "sclProfile": "",
+            "parallelBuild": true,
+            "includePaths": [],
+            "sourceLocations": [
+                "Tutorial/gen-sysc/ApplicationModel",
+                "Tutorial/gen-sysc/PlatformModel"
+            ],
+            "libPaths": [],
+            "libs": [],
+            "symbols": [],
+            "CXXFLAGS": [],
+            "LDFLAGS": [],
+            "preBuild": "",
+            "postBuild": "",
+            "active": true,
+            "conan": {
+                "enable": false,
+                "generateSystemCIP": false,
+                "conanPackages": [],
+                "resourcePaths": [],
+                "extraInstallParameters": " --build=missing "
+            },
+            "isim": {
+                "enableISIM": false,
+                "simicsClassName": "",
+                "EXTRA_MODULE_PATH": []
+            }
+        },
+        {
+            "buildName": "MappingModel_MSVC",
+            "fastBuild": true,
+            "buildMode": "release",
+            "compiler": "msvc",
+            "sclProfile": "",
+            "parallelBuild": true,
+            "includePaths": [],
+            "sourceLocations": [],
+            "libPaths": [],
+            "libs": [],
+            "symbols": [],
+            "CXXFLAGS": [],
+            "LDFLAGS": [],
+            "preBuild": "",
+            "postBuild": "",
+            "active": false,
+            "conan": {
+                "enable": false,
+                "generateSystemCIP": false,
+                "conanPackages": [],
+                "resourcePaths": [],
+                "extraInstallParameters": " --build=missing "
+            },
+            "isim": {
+                "enableISIM": false,
+                "simicsClassName": "",
+                "EXTRA_MODULE_PATH": []
+            }
+        },
+        {
+            "buildName": "MappingModel_GCC",
+            "fastBuild": true,
+            "buildMode": "release",
+            "compiler": "gcc",
+            "sclProfile": "",
+            "parallelBuild": true,
+            "includePaths": [],
+            "sourceLocations": [],
+            "libPaths": [],
+            "libs": [],
+            "symbols": [],
+            "CXXFLAGS": [],
+            "LDFLAGS": [],
+            "preBuild": "",
+            "postBuild": "",
+            "active": false,
+            "conan": {
+                "enable": false,
+                "generateSystemCIP": false,
+                "conanPackages": [],
+                "resourcePaths": [],
+                "extraInstallParameters": " --build=missing "
+            },
+            "isim": {
+                "enableISIM": false,
+                "simicsClassName": "",
+                "EXTRA_MODULE_PATH": []
+            }
+        }
+    ],
+    "Tutorial/Tutorial/models/MappingModelRefinement.cf_map": [
+        {
+            "buildName": "MappingModelRefinement_MinGW",
+            "fastBuild": false,
+            "buildMode": "release",
+            "compiler": "mingw",
+            "sclProfile": "",
+            "parallelBuild": true,
+            "includePaths": [],
+            "sourceLocations": [
+                "Tutorial/gen-sysc/ApplicationModelRefinement",
+                "Tutorial/gen-sysc/PlatformModel"
+            ],
+            "libPaths": [],
+            "libs": [],
+            "symbols": [],
+            "CXXFLAGS": [],
+            "LDFLAGS": [],
+            "preBuild": "",
+            "postBuild": "",
+            "active": false,
+            "conan": {
+                "enable": false,
+                "generateSystemCIP": false,
+                "conanPackages": [],
+                "resourcePaths": [],
+                "extraInstallParameters": " --build=missing "
+            },
+            "isim": {
+                "enableISIM": false,
+                "simicsClassName": "",
+                "EXTRA_MODULE_PATH": []
+            }
+        },
+        {
+            "buildName": "MappingModelRefinement_MSVC",
+            "fastBuild": true,
+            "buildMode": "release",
+            "compiler": "msvc",
+            "sclProfile": "",
+            "parallelBuild": true,
+            "includePaths": [],
+            "sourceLocations": [],
+            "libPaths": [],
+            "libs": [],
+            "symbols": [],
+            "CXXFLAGS": [],
+            "LDFLAGS": [],
+            "preBuild": "",
+            "postBuild": "",
+            "active": false,
+            "conan": {
+                "enable": false,
+                "generateSystemCIP": false,
+                "conanPackages": [],
+                "resourcePaths": [],
+                "extraInstallParameters": " --build=missing "
+            },
+            "isim": {
+                "enableISIM": false,
+                "simicsClassName": "",
+                "EXTRA_MODULE_PATH": []
+            }
+        },
+        {
+            "buildName": "MappingModelRefinement_GCC",
+            "fastBuild": true,
+            "buildMode": "release",
+            "compiler": "gcc",
+            "sclProfile": "",
+            "parallelBuild": true,
+            "includePaths": [],
+            "sourceLocations": [],
+            "libPaths": [],
+            "libs": [],
+            "symbols": [],
+            "CXXFLAGS": [],
+            "LDFLAGS": [],
+            "preBuild": "",
+            "postBuild": "",
+            "active": true,
+            "conan": {
+                "enable": false,
+                "generateSystemCIP": false,
+                "conanPackages": [],
+                "resourcePaths": [],
+                "extraInstallParameters": " --build=missing "
+            },
+            "isim": {
+                "enableISIM": false,
+                "simicsClassName": "",
+                "EXTRA_MODULE_PATH": []
+            }
+        }
+    ],
+    "CofSetting.Properties.CodeGen": {
+        "functionInheritedHeader": "",
+        "functionInheritedClasses": "cf_core::cf_function",
+        "functionInheritedConstructors": "cf_function(name)",
+        "routingFunctionInheritedHeader": "",
+        "routingFunctionInheritedClasses": "cf_core::cf_function_router",
+        "routingFunctionInheritedConstructors": "cf_function_router(name)",
+        "routingInheritedHeader": "",
+        "routingInheritedClasses": "cf_core::cf_router",
+        "routingInheritedConstructors": "cf_router(name)",
+        "schedulerInheritedHeader": "",
+        "schedulerInheritedClasses": "cf_core::cf_scheduler",
+        "schedulerInheritedConstructors": "cf_scheduler(name)",
+        "masterInterfaceInheritedHeader": "",
+        "masterInterfaceInheritedClasses": "cf_core::cf_master_interface",
+        "masterInterfaceInheritedConstructors": "cf_master_interface(name)",
+        "slaveInterfaceInheritedHeader": "",
+        "slaveInterfaceInheritedClasses": "cf_core::cf_slave_interface",
+        "slaveInterfaceInheritedConstructors": "cf_slave_interface(name)",
+        "processorInheritedHeader": "",
+        "processorInheritedClasses": "cf_core::cf_processor",
+        "processorInheritedConstructors": "cf_processor(name)",
+        "memoryInheritedHeader": "",
+        "memoryInheritedClasses": "cf_core::cf_memory",
+        "memoryInheritedConstructors": "cf_memory(name)",
+        "busInheritedHeader": "",
+        "busInheritedClasses": "cf_core::cf_bus",
+        "busInheritedConstructors": "cf_bus(name)"
+    },
+    "CofSetting.Path.Variables": {
+        "PROJECT_FOLDER": "d:/CoFluent/cof-workspace/Tutorial",
+        "COF_SCL_PATH": "C:/Users/ncutaia/cof-pack/main/cof-scl-isim_lic_main_9.2.0-230703"
+    }
+}

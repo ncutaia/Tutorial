@@ -1,0 +1,9 @@
+component_name,component_type,probe_configuration
+/ApplicationModel/Producer/Generator,FUNCTION,MON_STATE_ONLY
+/ApplicationModel/Producer/Req,EVENT,MON_STATE_ONLY
+/ApplicationModel/Producer/DataVar,SHARED_VARIABLE,MON_STATE_ONLY
+/ApplicationModel/Producer/Sender,FUNCTION,MON_STATE_ONLY
+/ApplicationModel/Msg,MESSAGE_QUEUE,MON_STATE_ONLY
+/ApplicationModel/Ack,MESSAGE_QUEUE,MON_STATE_ONLY
+/ApplicationModel/Receiver,FUNCTION,MON_STATE_ONLY
+/ApplicationModel/Producer/TestProd,SHARED_VARIABLE,MON_STATE_VALUE

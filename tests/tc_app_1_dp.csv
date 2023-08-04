@@ -1,0 +1,5 @@
+component_name,design_parameter_name,value
+/ApplicationModelRefinement,NoiseLevel,0
+/ApplicationModelRefinement,ErrorRate,0
+/ApplicationModelRefinement,DataSize,200
+/ApplicationModelRefinement/Producer/Generator,Frequency,0.1 Hz

@@ -1,0 +1,36 @@
+<charts:TimelineChart xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:charts="http://cofluent.intel.com/charts/1.0.0" xmlns:cofluent="http://cofluent.intel.com/cofluent/1.0.0" xmi:version="2.0" rangeTime="false" locked="false" zoomRange="false" fillColor="-1" captionPosition="SOUTH" grid="false" cursor="true" enableTracking="false">
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <child messageCount="true" showProcessor="false">
+      <element href="../ApplicationModel.cf_app#_baqE5hkYEealL-5xWZDvNw" xsi:type="cofluent:Function"/>
+    </child>
+    <element href="../ApplicationModel.cf_app#_baqE4BkYEealL-5xWZDvNw" xsi:type="cofluent:Function"/>
+  </probes>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <child messageCount="true" showProcessor="false">
+      <element href="../ApplicationModel.cf_app#_baqsbhkYEealL-5xWZDvNw" xsi:type="cofluent:Event"/>
+    </child>
+    <element href="../ApplicationModel.cf_app#_baqE4BkYEealL-5xWZDvNw" xsi:type="cofluent:Function"/>
+  </probes>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <child messageCount="true" showProcessor="false">
+      <element href="../ApplicationModel.cf_app#_baqscxkYEealL-5xWZDvNw" xsi:type="cofluent:SharedVariable"/>
+    </child>
+    <element href="../ApplicationModel.cf_app#_baqE4BkYEealL-5xWZDvNw" xsi:type="cofluent:Function"/>
+  </probes>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <child messageCount="true" showProcessor="false">
+      <element href="../ApplicationModel.cf_app#_baqsIBkYEealL-5xWZDvNw" xsi:type="cofluent:Function"/>
+    </child>
+    <element href="../ApplicationModel.cf_app#_baqE4BkYEealL-5xWZDvNw" xsi:type="cofluent:Function"/>
+  </probes>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <element href="../ApplicationModel.cf_app#_bawLiRkYEealL-5xWZDvNw" xsi:type="cofluent:MessageQueue"/>
+  </probes>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <element href="../ApplicationModel.cf_app#_bawykBkYEealL-5xWZDvNw" xsi:type="cofluent:MessageQueue"/>
+  </probes>
+  <probes xsi:type="charts:StaticProbe" messageCount="true" showProcessor="false">
+    <element href="../ApplicationModel.cf_app#_bau9YBkYEealL-5xWZDvNw" xsi:type="cofluent:Function"/>
+  </probes>
+  <model xsi:type="cofluent:Application" href="../ApplicationModel.cf_app#_-N6BcRhUEeaRJZtBX_vAyA"/>
+</charts:TimelineChart>
