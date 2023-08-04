@@ -1,2 +1,3 @@
 newfile.txt
 making first change to newfile.txt
+now making 2nd change to newfile.txt
